@@ -9,3 +9,6 @@
 
 [cxx#linux-x86_64]
   cxxflags = -DFMT_USE_FILE_DESCRIPTORS=1
+
+[cxx#macosx-x86_64]
+  cxxflags = -std=c++14 -DFMT_USE_FILE_DESCRIPTORS=1
