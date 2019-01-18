@@ -1,0 +1,4 @@
+[[dependency]]
+package = "github.com/buckaroo-pm/host-pthread"
+version = "*"
+private = true

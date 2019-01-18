@@ -32,3 +32,10 @@ FMT.build
 Makefile
 run-msbuild.bat
 fmt.pc
+
+.buckd
+buck-out
+.buckconfig.local
+.buckconfig.d
+buckaroo
+buckaroo_macros.bzl
